@@ -5,8 +5,8 @@ Il seguente codice Javascript è fatto per essere inserito in una bookmarklet ne
 eliminare la slide e permettere di vedere tutto l'articolo in colonna.
 
 #Come si fa?
-Crea una bookmarklet nella tua barra dei preferiti del tuo browser, dalle il nome che preferisci (La mia si chiama FuckPostSlides) e
-nel campo URL inserisci il seguente script:
+Seleziona tutto il codice sottostante. Una volta selezionato trascinalo nella barra dei preferiti. Si creerà una bookmarklet, cliccaci col destro se premi modifica per darle il nome che preferisci (La mia si chiama FuckPostSlides). 
+Lascia invariato il campo URL!
 
 javascript:var d=document.getElementsByClassName('swiper-wrapper');
 var c=document.getElementsByClassName('swiper-container');var at=document.getElementsByClassName('art_tag');
