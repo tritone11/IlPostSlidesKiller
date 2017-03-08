@@ -1,4 +1,5 @@
-# IlPostSlidesKiller
+# Il Post Slides Killer  
+## IlPost Slide Killer
 #Cos'è?
 Il Post (http://ilpost.it) sta piano piano trasformando metà dei suoi articoli in slides in cui devi continuare a cliccare per visualizzarne i contenuti.
 Il seguente codice Javascript è fatto per essere inserito in una bookmarklet nei preferiti o da eseguire nella console del browser per
