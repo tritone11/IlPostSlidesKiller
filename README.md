@@ -1,11 +1,11 @@
 # Il Post Slides Killer  
 ## IlPost Slide Killer
-#Cos'è?
+# Cos'è?
 Il Post (http://ilpost.it) sta piano piano trasformando metà dei suoi articoli in slides in cui devi continuare a cliccare per visualizzarne i contenuti.
 Il seguente codice Javascript è fatto per essere inserito in una bookmarklet nei preferiti o da eseguire nella console del browser per
 eliminare la slide e permettere di vedere tutto l'articolo in colonna.
 
-#Come si fa?
+# Come si fa?
 Seleziona tutto il codice sottostante. Una volta selezionato trascinalo nella barra dei preferiti. Si creerà una bookmarklet, cliccaci col destro se premi modifica per darle il nome che preferisci (La mia si chiama FuckPostSlides). 
 Lascia invariato il campo URL!
 
